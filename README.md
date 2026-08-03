@@ -1,0 +1,2 @@
+# InteligenciaArtificial_LinguagensFormais_Automatos
+Atividades Práticas da Disciplina InteligenciaArtificial_LinguagensFormais_Automatos
